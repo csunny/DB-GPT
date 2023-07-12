@@ -67,6 +67,7 @@ playsound
 distro
 pypdf
 weaviate-client
+wheel
 
 # Testing dependencies
 pytest
